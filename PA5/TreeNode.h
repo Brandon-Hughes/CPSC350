@@ -1,0 +1,47 @@
+/// @brief Copy of TreeNode from In Class
+/// @file TreeNode.h
+/// @author Brandon Hughes
+/// @course CPSC-350-03 Data Structures and Algorithms
+#ifndef TREE_NODE_H
+#define TREE_NODE_H
+
+
+#include <cstdlib>
+#include <iostream>
+
+template <typename T>
+class TreeNode{
+public:
+  TreeNode();
+  TreeNode(T d);
+  virtual ~TreeNode();
+  template <typename S>
+  friend class BST;
+private:
+  T m_data;
+  TreeNode<T>* m_left;
+  TreeNode<T>* m_right;
+};
+
+template <typename T>
+TreeNode<T>::TreeNode(){
+}
+
+template <typename T>
+TreeNode<T>::TreeNode(T d){
+  m_data = d;
+  m_left = NULL;
+  m_right = NULL;
+}
+
+template <typename T>
+TreeNode<T>::~TreeNode(){
+  if(m_left != NULL){
+    delete m_left;
+  }
+  if(m_right != NULL){
+    delete m_right;
+  }
+}
+
+#endif

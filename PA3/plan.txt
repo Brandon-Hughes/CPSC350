@@ -1,0 +1,39 @@
+monotonic stack is a stack whose elements appear in either 
+ - monotonically increasing or decreasing order from the bottom of the stack to the top of the stack
+ - duplciate values not allowed
+ - Last in, First Out
+ - push must ensure that values are increasng or decreasing order
+ - increasing: push a value of X on the stack 
+    = pop and discard all values in the stack that are larger than X
+ - decreasing: push a value of X
+    - pop and discard all values in the stack that are smaller than X
+
+
+MonoStack: array-based stack code
+ - constructor (initial size, character o)
+    - if o == 'i', increasing
+    - if o == 'd', decreasing
+ - needs error handling
+
+SpeakerView: 
+- N Lines P doubles
+ ex. 
+ 121.4 50.2 75.3
+ 90.5 80.2 60.3
+ 80.3 90.7 89.9
+ 72.1 92.6 54.4
+
+In Column 0 there are 1 that can see. (121.4)
+In Column 1 there are 4 that can see. (all)
+In column 2 there are 2 that can see. (75.3, 89.9)
+
+To build array: get line, seperate by spaces, create array's with number of indexes
+                add to array each number by it's index?
+ColumnNArray = 121.4, 90.5, 80.3, 72.1
+    Take 121.4 if anything is higher add 1 and change to new highest number
+
+ColumnNArray = 50.2, 80.2, 90.7, 92.6
+    Take 50.2, if anything is higher add 1 and cahnge to new high number
+    Take 80.2 ""
+    Take 90.7 ""
+    Take 92.6 ""

@@ -1,0 +1,87 @@
+creating a LxNxN array
+
+creating mario that moves (random(0,3)) 0 = up, 1 = down, 2 = left, 3 = right
+    - if leftmost row moves left, goes to rightmost row (if current row = 0 && move left (go to row(n) ) if current row = n && move right(go to row(0))
+
+creating coins (coins = 20, then lives + 1, coins - 20)
+
+creating mushrooms (if PL < 2 (PL+1))
+
+creating goomba (80% win chance) (random(0,4))
+    - if win (1-4) = move on
+    - if lose (0) = (if PL=0 (lives-1) else PL-1)
+        - if lives < 0 end loop / lose
+
+creating koopa (65% win chance) (random(0,19)
+    - if win(7-19) = move on
+    - if lose(0-6)  = (if PL=0 (lives-1) else PL-1)
+        - if lives < 0 end loop / lose
+        
+if 0 lives lost && enemies defeated = 7 (live + 1)
+
+creating boss ((50% win chance) (random(0,1)))
+    - if win (1)
+        - if L = last level, then princess saved / game win
+        - else L + 1;
+    if lose: (0)
+        - if PL=2 then PL -2
+        - else lives - 1
+        - if lives < 0 end loop / lose
+
+creating warp pipe
+    - if ontop L+1
+
+
+creating input file 
+    - Line # 1 is the number of levels, L (a positive integer)
+    - Line # 2 is the dimension of the grid, N (a positive integer)
+    - Line # 3 is the number of initial lives, V (a positive integer)
+    - Line # 4 is the approximate percentage of the positions in each level with coins (a positive integer)
+    - Line # 5 is the approximate percentage of the positions in each level with nothing (a positive integer)
+    - Line # 6 is the approximate percentage of the positions in each level with Goombas (a positive integer)
+    - Line # 7 is the approximate percentage of the positions in each level with Koopas (a positive integer)
+    - Line # 8 is the approximate percentage of the positions in each level with mushrooms (a positive integer)
+        - 4-8 = 100
+
+creating board
+    - create a holder array
+    - place coins/mushrooms/goomba/koopa/nothing (should calculate to 100%)
+        - take # from input file 
+        - coins = 4
+        - nothing = 5
+        - goombas = 6
+        - koopas = 7
+        - mushrooms = 8
+        - place nothing then fill in
+    - generate a random number(0,n) & random number (0,n)
+        - if nothing place boss else try again
+    - generate a random number(0,n) & random number (0,n)
+        - if nothing place warp pipe else try again
+
+
+create output file 
+    - The output of your game is a plain text file that represents a log of every move Mario has made. 
+        - The name of the log should be provided as a command line argument.
+    - The log should start by printing a character representation (see below) of each level
+        - prior to Mario being placed and interacting with the environment
+        - There should be a newline after each level representation
+    - Each subsequent line of the file should specify:
+    - The level number
+    - The position location of Mario (a row and column number)
+    - The action that was taken at that position
+        - Mario collected a coin
+        - Mario ate a mushroom
+        - Mario fought a Goomba and won/lost
+        - Mario fought a Koopa and won/lost
+        - Mario fought the level boss and won/lost
+        - The position is empty
+        - Mario warped
+    - The number of lives Mario has after interacting with the position
+    - The number of coins Mario has after interacting with the position
+    - The direction that Mario will move next (UP, DOWN, LEFT, RIGHT)
+    - After each line a character array representing the current level should be printed, followed by a newline.
+    - The last line of the file should specify whether Mario won or lost the game
+    - The total number of moves it took to reach that point.
+
+
+

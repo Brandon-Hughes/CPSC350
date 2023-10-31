@@ -1,0 +1,1814 @@
+Level: 0
+[m][k][g][g][g][g][c][g][x][c]
+[x][m][x][k][g][x][m][x][c][x]
+[x][w][k][x][g][x][c][c][x][x]
+[b][x][g][g][g][c][c][x][g][x]
+[g][x][k][g][x][x][g][x][x][x]
+[x][g][m][x][g][x][g][x][k][x]
+[g][x][c][x][g][x][x][g][x][x]
+[k][x][x][x][k][c][x][g][x][x]
+[k][x][g][k][x][x][g][k][x][x]
+[g][c][x][x][x][m][x][x][x][g]
+
+Level Number: 0
+Mario's Position: (1,1)
+Mario's Power Level: 0
+Mario ate a mushroom
+Mario has 20 lives left.
+Mario has 0 coins.
+Mario will move down
+
+Level Number: 0
+Mario's Position: (1,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 20 lives left.
+Mario has 0 coins.
+Mario will move up
+
+Level Number: 0
+Mario's Position: (1,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 20 lives left.
+Mario has 0 coins.
+Mario will move left
+
+Level Number: 0
+Mario's Position: (2,1)
+Mario's Power Level: 1
+Mario Warped
+
+Level: 1
+[b][m][g][c][x][g][g][k][k][m]
+[x][m][x][c][x][x][x][x][x][w]
+[x][g][k][g][x][x][g][x][x][x]
+[x][x][g][x][g][g][x][x][c][x]
+[k][x][k][g][x][c][x][x][x][x]
+[x][x][g][c][x][x][g][k][x][x]
+[g][x][g][x][x][x][g][k][x][g]
+[x][g][x][c][g][m][g][g][g][x]
+[x][k][g][x][g][c][c][x][m][k]
+[x][x][x][x][x][c][g][k][x][c]
+Mario has 20 lives left.
+Mario has 0 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (3,2)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 20 lives left.
+Mario has 0 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (4,2)
+Mario's Power Level: 1
+Mario fought a Koopa and won
+Mario has 20 lives left.
+Mario has 0 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (4,3)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 20 lives left.
+Mario has 0 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (5,3)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (5,2)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (6,2)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (6,3)
+Mario's Power Level: 1
+The position is empty
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (6,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (6,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move right
+
+Level Number: 1
+Mario's Position: (5,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (6,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 20 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (6,0)
+Mario's Power Level: 1
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 20 lives left.
+Mario has 1 coins.
+
+Level Number: 1
+Mario's Position: (6,9)
+Mario's Power Level: 0
+Mario fought a Goomba and lost
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (7,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move right
+
+Level Number: 1
+Mario's Position: (6,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (7,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (7,8)
+Mario's Power Level: 0
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (8,8)
+Mario's Power Level: 0
+Mario ate a mushroom
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (8,9)
+Mario's Power Level: 1
+Mario fought a Koopa and won
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (8,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (8,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 1 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (8,6)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 18 lives left.
+Mario has 2 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (9,6)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 2 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (9,5)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 18 lives left.
+Mario has 3 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (9,6)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 3 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (9,7)
+Mario's Power Level: 1
+Mario fought a Koopa and won
+Mario has 18 lives left.
+Mario has 3 coins.
+Mario will move right
+
+Level Number: 1
+Mario's Position: (8,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 3 coins.
+Mario will move right
+
+Level Number: 1
+Mario's Position: (7,7)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 3 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (7,6)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 19 lives left.
+Mario has 3 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (7,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 19 lives left.
+Mario has 3 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (7,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 19 lives left.
+Mario has 3 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (8,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 19 lives left.
+Mario has 3 coins.
+Mario will move right
+
+Level Number: 1
+Mario's Position: (7,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 19 lives left.
+Mario has 3 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (7,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 19 lives left.
+Mario has 3 coins.
+
+Level Number: 1
+Mario's Position: (7,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 19 lives left.
+Mario has 3 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (8,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 19 lives left.
+Mario has 3 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (8,1)
+Mario's Power Level: 1
+Mario fought a Koopa and lost
+Mario fought a Koopa and lost
+Mario fought a Koopa and won
+Mario has 18 lives left.
+Mario has 3 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (8,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 3 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (9,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 3 coins.
+
+Level Number: 1
+Mario's Position: (9,9)
+Mario's Power Level: 0
+Mario collected a coin
+Mario has 18 lives left.
+Mario has 4 coins.
+
+Level Number: 1
+Mario's Position: (9,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move right
+
+Level Number: 1
+Mario's Position: (8,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move up
+
+Level Number: 1
+Mario's Position: (8,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move left
+
+Level Number: 1
+Mario's Position: (9,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move down
+
+Level Number: 1
+Mario's Position: (9,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+
+Level Number: 1
+Mario's Position: (0,0)
+Mario's Power Level: 0
+Mario fought the level boss and won
+
+Level: 2
+[g][x][c][m][x][x][x][x][x][x]
+[x][c][k][g][g][x][x][g][m][c]
+[x][x][x][m][x][x][g][k][x][g]
+[g][k][x][m][g][g][k][x][x][g]
+[g][x][k][x][x][g][x][g][c][x]
+[x][x][x][x][x][g][g][c][k][g]
+[x][g][g][x][x][c][c][w][g][c]
+[m][k][x][x][g][x][x][g][g][k]
+[x][x][g][x][k][g][b][c][x][x]
+[x][c][x][x][g][x][x][x][x][k]
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (8,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (8,8)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (8,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+
+Level Number: 2
+Mario's Position: (8,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+
+Level Number: 2
+Mario's Position: (8,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (7,9)
+Mario's Power Level: 0
+Mario fought a Koopa and won
+Mario has 18 lives left.
+Mario has 4 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (6,9)
+Mario's Power Level: 0
+Mario collected a coin
+Mario has 18 lives left.
+Mario has 5 coins.
+
+Level Number: 2
+Mario's Position: (6,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (5,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (5,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (4,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (5,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (5,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (4,2)
+Mario's Power Level: 0
+Mario fought a Koopa and won
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (4,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (3,1)
+Mario's Power Level: 0
+Mario fought a Koopa and won
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (3,0)
+Mario's Power Level: 0
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 5 coins.
+
+Level Number: 2
+Mario's Position: (3,9)
+Mario's Power Level: 0
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (4,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 5 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (4,8)
+Mario's Power Level: 0
+Mario collected a coin
+Mario has 18 lives left.
+Mario has 6 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (3,8)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 6 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (3,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 6 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (4,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 6 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (4,8)
+Mario's Power Level: 0
+The position is empty
+Mario has 18 lives left.
+Mario has 6 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (4,7)
+Mario's Power Level: 0
+Mario fought a Goomba and won
+Mario has 19 lives left.
+Mario has 6 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (5,7)
+Mario's Power Level: 0
+Mario collected a coin
+Mario has 19 lives left.
+Mario has 7 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (4,7)
+Mario's Power Level: 0
+The position is empty
+Mario has 19 lives left.
+Mario has 7 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (3,7)
+Mario's Power Level: 0
+The position is empty
+Mario has 19 lives left.
+Mario has 7 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (2,7)
+Mario's Power Level: 0
+Mario fought a Koopa and won
+Mario has 19 lives left.
+Mario has 7 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (1,7)
+Mario's Power Level: 0
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (1,8)
+Mario's Power Level: 0
+Mario ate a mushroom
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (1,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (2,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (1,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (1,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (0,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+
+Level Number: 2
+Mario's Position: (9,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (9,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (9,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (8,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (8,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (9,9)
+Mario's Power Level: 1
+Mario fought a Koopa and won
+Mario has 18 lives left.
+Mario has 7 coins.
+
+Level Number: 2
+Mario's Position: (0,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (0,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+
+Level Number: 2
+Mario's Position: (9,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (9,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+
+Level Number: 2
+Mario's Position: (9,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 7 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (9,1)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 18 lives left.
+Mario has 8 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (8,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 8 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (9,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 8 coins.
+
+Level Number: 2
+Mario's Position: (0,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 8 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (1,1)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (1,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (2,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+
+Level Number: 2
+Mario's Position: (2,9)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 9 coins.
+
+Level Number: 2
+Mario's Position: (2,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+
+Level Number: 2
+Mario's Position: (2,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (3,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (4,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (4,8)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (4,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+
+Level Number: 2
+Mario's Position: (4,0)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (4,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move up
+
+Level Number: 2
+Mario's Position: (4,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (4,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (5,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (5,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+
+Level Number: 2
+Mario's Position: (5,9)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move right
+
+Level Number: 2
+Mario's Position: (4,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (5,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (6,9)
+Mario's Power Level: 1
+The position is empty
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (6,8)
+Mario's Power Level: 1
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 18 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (7,8)
+Mario's Power Level: 0
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 17 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (7,7)
+Mario's Power Level: 0
+Mario fought a Goomba and won
+Mario has 17 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 2
+Mario's Position: (7,6)
+Mario's Power Level: 0
+The position is empty
+Mario has 17 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 2
+Mario's Position: (8,6)
+Mario's Power Level: 0
+Mario fought the level boss and lost
+Mario fought the level boss and lost
+Mario fought the level boss and lost
+Mario fought the level boss and lost
+Mario fought the level boss and won
+
+Level: 3
+[c][x][m][k][x][x][x][c][c][g]
+[c][k][x][c][x][c][g][x][g][x]
+[x][k][x][x][k][c][x][k][x][g]
+[g][g][x][m][x][g][x][m][x][x]
+[x][g][k][g][x][m][g][g][x][b]
+[k][g][x][g][g][g][x][x][x][x]
+[x][g][x][k][x][g][x][g][x][x]
+[c][g][g][g][k][x][x][x][x][x]
+[g][x][c][g][x][x][x][x][c][m]
+[x][x][x][x][k][g][w][g][x][x]
+Mario has 13 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (2,1)
+Mario's Power Level: 0
+Mario fought a Koopa and won
+Mario has 13 lives left.
+Mario has 9 coins.
+Mario will move right
+
+Level Number: 3
+Mario's Position: (1,1)
+Mario's Power Level: 0
+Mario fought a Koopa and lost
+Mario fought a Koopa and won
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move up
+
+Level Number: 3
+Mario's Position: (1,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move right
+
+Level Number: 3
+Mario's Position: (0,2)
+Mario's Power Level: 0
+Mario ate a mushroom
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (1,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move right
+
+Level Number: 3
+Mario's Position: (0,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (0,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move up
+
+Level Number: 3
+Mario's Position: (0,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+
+Level Number: 3
+Mario's Position: (9,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (9,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+
+Level Number: 3
+Mario's Position: (0,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (1,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (2,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move up
+
+Level Number: 3
+Mario's Position: (2,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (2,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (2,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 9 coins.
+Mario will move right
+
+Level Number: 3
+Mario's Position: (1,0)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move up
+
+Level Number: 3
+Mario's Position: (1,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (2,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move up
+
+Level Number: 3
+Mario's Position: (2,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (3,2)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (3,1)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (3,0)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move right
+
+Level Number: 3
+Mario's Position: (2,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (3,0)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move up
+
+Level Number: 3
+Mario's Position: (3,1)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (4,1)
+Mario's Power Level: 1
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (4,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move left
+
+Level Number: 3
+Mario's Position: (5,0)
+Mario's Power Level: 0
+Mario fought a Koopa and won
+Mario has 12 lives left.
+Mario has 10 coins.
+
+Level Number: 3
+Mario's Position: (5,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move down
+
+Level Number: 3
+Mario's Position: (5,8)
+Mario's Power Level: 0
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move up
+
+Level Number: 3
+Mario's Position: (5,9)
+Mario's Power Level: 0
+The position is empty
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move right
+
+Level Number: 3
+Mario's Position: (4,9)
+Mario's Power Level: 0
+Mario fought the level boss and won
+
+Level: 4
+[x][g][x][x][c][x][g][x][x][x]
+[c][x][m][x][g][x][g][c][m][x]
+[x][x][x][g][k][k][x][x][x][x]
+[x][x][x][k][m][x][g][x][x][k]
+[g][c][x][c][g][x][b][x][g][g]
+[m][x][c][k][x][c][x][c][g][k]
+[x][x][g][x][x][g][c][m][k][g]
+[g][x][x][k][x][x][x][x][x][g]
+[g][g][g][k][g][x][g][x][g][x]
+[c][x][x][g][g][x][x][x][x][g]
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (6,7)
+Mario's Power Level: 0
+Mario ate a mushroom
+Mario has 12 lives left.
+Mario has 10 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (6,6)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (7,6)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (6,6)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (7,6)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (7,7)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (7,6)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (7,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (7,4)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (7,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (8,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (7,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (8,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (9,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 11 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (9,4)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 12 lives left.
+Mario has 11 coins.
+
+Level Number: 4
+Mario's Position: (0,4)
+Mario's Power Level: 1
+Mario collected a coin
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (0,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (0,4)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (0,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (1,5)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (1,4)
+Mario's Power Level: 1
+Mario fought a Goomba and won
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (1,3)
+Mario's Power Level: 1
+The position is empty
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (2,3)
+Mario's Power Level: 1
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (1,3)
+Mario's Power Level: 0
+The position is empty
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (1,4)
+Mario's Power Level: 0
+The position is empty
+Mario has 12 lives left.
+Mario has 12 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (2,4)
+Mario's Power Level: 0
+Mario fought a Koopa and lost
+Mario fought a Koopa and lost
+Mario fought a Koopa and lost
+Mario fought a Koopa and lost
+Mario fought a Koopa and lost
+Mario fought a Koopa and won
+Mario has 7 lives left.
+Mario has 12 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (3,4)
+Mario's Power Level: 0
+Mario ate a mushroom
+Mario has 7 lives left.
+Mario has 12 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (4,4)
+Mario's Power Level: 1
+Mario fought a Goomba and lost
+Mario fought a Goomba and lost
+Mario fought a Goomba and won
+Mario has 6 lives left.
+Mario has 12 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (5,4)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 12 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (4,4)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 12 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (4,3)
+Mario's Power Level: 0
+Mario collected a coin
+Mario has 6 lives left.
+Mario has 13 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (4,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 13 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (4,1)
+Mario's Power Level: 0
+Mario collected a coin
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (5,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (4,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (5,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (4,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (4,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (4,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (4,0)
+Mario's Power Level: 0
+Mario fought a Goomba and won
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (3,0)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (3,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (3,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (2,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (2,3)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (2,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (3,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (2,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (3,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (4,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (4,1)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (4,2)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (4,3)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (4,4)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move right
+
+Level Number: 4
+Mario's Position: (3,4)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move down
+
+Level Number: 4
+Mario's Position: (3,3)
+Mario's Power Level: 0
+Mario fought a Koopa and won
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move left
+
+Level Number: 4
+Mario's Position: (4,3)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (4,4)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (4,5)
+Mario's Power Level: 0
+The position is empty
+Mario has 6 lives left.
+Mario has 14 coins.
+Mario will move up
+
+Level Number: 4
+Mario's Position: (4,6)
+Mario's Power Level: 0
+Mario fought the level boss and lost
+Mario fought the level boss and won
+Mario has 5 lives left.
+Mario has 14 coins.
+Mario will move right
+
+You saved the princess
+It took 219 amount of moves
